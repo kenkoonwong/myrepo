@@ -1,13 +1,1 @@
-removed everything
-adding new things 
-adding more things from test branch
-testing tsting
-
-adding more stuff
-adding some stuff on brnach
-
-something on main
-
-added something here
-working on it for a while
-let's see if this shows when i switch to main
+what is 1 + 1 ?
