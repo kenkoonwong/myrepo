@@ -1,4 +1,8 @@
 something totally different
 what is 1 + 1 = ?
 
+<<<<<<< HEAD
 added something from web
+=======
+so we don't have anything here, so adding this
+>>>>>>> 70ae6ad (let's crash this thing)
