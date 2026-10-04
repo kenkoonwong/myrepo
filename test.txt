@@ -5,4 +5,8 @@ added something from web
 
 so we don't have anything here, so adding this
 
+<<<<<<< HEAD
 now more stuff
+=======
+adding more stuff here 
+>>>>>>> 8056264 (hello)
